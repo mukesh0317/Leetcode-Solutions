@@ -55,8 +55,8 @@ The main goal is simple: **practice consistently, learn from each problem, and g
 
 ## Profiles
 
-* [LeetCode](https://leetcode.com/)
-* [GitHub](https://github.com/)
+* [LeetCode]([https://leetcode.com/](https://leetcode.com/u/mukesh_0203/))
+* [GitHub]([https://github.com/](https://github.com/mukesh0317))
 
 ---
 
