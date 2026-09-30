@@ -9,7 +9,7 @@ class Solution:
             if count>0:
                 result.append(symbol*count)
                 num%=value
-        return "".join(result)
+        return "".join(result) 
 
 
 # Synced seamlessly with LeetHub Pro
